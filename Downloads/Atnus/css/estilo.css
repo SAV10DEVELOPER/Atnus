@@ -1,0 +1,71 @@
+body {
+	height: 100%;
+	margin: 0px;
+}
+
+.fundo {
+	background-image: url("../imagens/backgroud.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.cpfbox {
+	position: absolute;
+	top: 15%;
+	left: 65%;
+}
+
+.nav-item {
+	margin: 12px;
+}
+
+.texto-home {
+	font-family: Arial;
+	font-size: 30px;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+}
+
+/*left: 7% = Justificado 12% = Centralizado */
+.texto-desc {
+	font-family: Arial;
+	position: absolute;
+	text-align: center;
+	font-size: 20px;
+	top: 34%;
+	left: 7%;
+}
+
+/* News */
+
+#box-news {
+	position: absolute;
+	top: 19%;
+	left: 18%;
+}
+
+
+.title-news {
+	font-family: Arial;
+	font-size: 20px;
+	position: absolute;
+	color: #000000;
+}
+
+#title-news1 {
+	top: 30%;
+	left: 20%;
+}
+
+#title-news2 {
+	top: 25%;
+	left: 41%;
+}
+
+#title-news3 {
+	top: 30%;
+	left: 62%;
+}
